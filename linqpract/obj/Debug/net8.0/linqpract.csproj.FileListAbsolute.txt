@@ -1,0 +1,14 @@
+C:\Users\NITRO\source\repos\linqpract\bin\Debug\net8.0\linqpract.exe
+C:\Users\NITRO\source\repos\linqpract\bin\Debug\net8.0\linqpract.deps.json
+C:\Users\NITRO\source\repos\linqpract\bin\Debug\net8.0\linqpract.runtimeconfig.json
+C:\Users\NITRO\source\repos\linqpract\bin\Debug\net8.0\linqpract.dll
+C:\Users\NITRO\source\repos\linqpract\bin\Debug\net8.0\linqpract.pdb
+C:\Users\NITRO\source\repos\linqpract\obj\Debug\net8.0\linqpract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO\source\repos\linqpract\obj\Debug\net8.0\linqpract.AssemblyInfoInputs.cache
+C:\Users\NITRO\source\repos\linqpract\obj\Debug\net8.0\linqpract.AssemblyInfo.cs
+C:\Users\NITRO\source\repos\linqpract\obj\Debug\net8.0\linqpract.csproj.CoreCompileInputs.cache
+C:\Users\NITRO\source\repos\linqpract\obj\Debug\net8.0\linqpract.dll
+C:\Users\NITRO\source\repos\linqpract\obj\Debug\net8.0\refint\linqpract.dll
+C:\Users\NITRO\source\repos\linqpract\obj\Debug\net8.0\linqpract.pdb
+C:\Users\NITRO\source\repos\linqpract\obj\Debug\net8.0\linqpract.genruntimeconfig.cache
+C:\Users\NITRO\source\repos\linqpract\obj\Debug\net8.0\ref\linqpract.dll
